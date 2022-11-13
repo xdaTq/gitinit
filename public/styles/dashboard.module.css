@@ -1,0 +1,22 @@
+.whiteBoard {
+    padding-top: 20px;
+    width: 75vw;
+    height: 30vw;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.logo {
+    width: 128px;
+    height: 100px;
+}
+
+.questionForm {
+    padding-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.questionBox {
+    margin-left: 20px;
+}
